@@ -21,6 +21,10 @@ class Stock extends BaseController {
         ;
     }
 
+    public function add_new_item() {
+        
+    }
+
     public function edit_stock() {
         
     }

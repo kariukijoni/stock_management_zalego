@@ -11,6 +11,11 @@
             <div class="box">
                 <div class="box-header">
                     Stock Listing
+                    <div class="col-xs-12 text-right">
+                        <div class="form-group">
+                            <a class="btn btn-primary" href="<?php echo base_url(); ?>stock/add_new_item"><i class="fa fa-plus"></i> Add New</a>
+                        </div>
+                    </div>
                 </div>
                 <div class="box-body table-responsive no-padding">
                     <table class="table table-hover" id="stock_listing">
