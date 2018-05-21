@@ -27,10 +27,6 @@ QUESTIONS/COMMENTS
 
 If you have any questions the fastest way to get results is by visiting my mail **kariukijoni@gmail.com**
 
-License
-
-Please see the license agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.md>_.
-
 Acknowledgement
 
 kariukye
