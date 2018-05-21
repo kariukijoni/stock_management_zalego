@@ -18,7 +18,7 @@ It should work on 5.3.7 as well, but we strongly advise you NOT to run such old 
 Installation
 
 Setup a database and user.
-Go into PHPMYADMIN and import "Stock_management.sql" into your newly created database by going to import>choose                  "kijiji_pharmacy.sql">choose import.
+Go into PHPMYADMIN and import "Stock_management.sql" into your newly created database by going to import>choose                  "Stock_management.sql">choose import.
 Configure the database file by going to /application/config/database.php
 Configure your site specific values by going to /application/config/custom.php
 Your site should now be installed.
